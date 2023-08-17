@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gozde Inis Demir</title>
+    <link>https://gzdgrffn.github.io/</link>
+      <atom:link href="https://gzdgrffn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gozde Inis Demir</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gzdgrffn.github.io/media/icon_huf37a9880d3c1e7836ee22b85070d15b5_316207_512x512_fill_lanczos_center_3.png</url>
+      <title>Gozde Inis Demir</title>
+      <link>https://gzdgrffn.github.io/</link>
+    </image>
+    
+    <item>
+      <title>2D-FFCASP—A New Approach for 2D Structure Prediction Applied to Self-Assemblies of DNA Bases</title>
+      <link>https://gzdgrffn.github.io/publication/2dffcasp/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://gzdgrffn.github.io/publication/2dffcasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crystal Structure Prediction and Dehydrogenation Mechanism of LiMg(BH4)3(NH3)2</title>
+      <link>https://gzdgrffn.github.io/publication/b3n2/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://gzdgrffn.github.io/publication/b3n2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EuroCC@Turkey Computhon 2022/1</title>
+      <link>https://gzdgrffn.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://gzdgrffn.github.io/post/jupyter/</guid>
+      <description>&lt;h2 id=&#34;there-were-three-categories-in-the-second-computhon&#34;&gt;There were three categories in the second Computhon;&lt;/h2&gt;
+&lt;p&gt;• Single-node: Parallel computation on multi-core CPUs.&lt;/p&gt;
+&lt;p&gt;• Single-node: Parallel computation on multiple GPUs.&lt;/p&gt;
+&lt;p&gt;• Multi-node: Distributed computing on multiple nodes + CPUs and GPUs&lt;/p&gt;
+&lt;p&gt;Our team of three (me, Ahmet Tuncer Durak and Samet Demir) won the competition in all categories.&lt;/p&gt;
+&lt;p&gt;It was a great week that we worked together and enjoyed every minute of it.&lt;/p&gt;
+&lt;p&gt;Details about the Computhon 2022/1 can be found from &lt;a href=&#34;https://indico.truba.gov.tr/event/87/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the event website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/EuroCC_Turkey/status/1525118043675828227?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tweet of EuroCC@Turkey&lt;/a&gt; that they announced the winners.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gzdgrffn.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gzdgrffn.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
